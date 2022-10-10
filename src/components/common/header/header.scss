@@ -1,0 +1,14 @@
+@use "../../../assets/scss/variables.scss" as v;
+
+.main-navbar {
+  box-shadow: 0 3px 5px v.$color4;
+
+  img {
+    width: 80px;
+    height: auto;
+  }
+
+  .navbar-nav {
+    gap: 1rem;
+  }
+}
