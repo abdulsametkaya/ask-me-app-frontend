@@ -1,5 +1,5 @@
 export const settings = {
-  apiURL: "https://carrental-v2-backend.herokuapp.com",
+  apiURL: "http://localhost:8080",
   siteName: "Ask Me",
   siteUrl: "askme.com",
   email: "info@askme.com",
